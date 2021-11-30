@@ -1,0 +1,19 @@
+{
+  "name": "erdemcakiroglu-tokenses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "opusscript": "^0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ErdemÇakıroğlu",
+  "license": "MIT"
+}
